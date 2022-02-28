@@ -1,1 +1,1 @@
-# ProjectDS
+# Capstone Proyect for the IBM certificate of Data Science. The proyect is divided in several parts, from data collection vía API (Json and HTML tables), to data exploration, cleaning and modification with pandas and numpy libraries, application of SQL language for querie extraction, applied visualizations with matplotlib library, geographic mapping and marking with the folium library and applied supervised machine learning for model especification for the prediction of success rate of rocket launches.
